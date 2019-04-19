@@ -1,0 +1,12 @@
+{
+    "name": "omelchenko_m/test",
+    "require": {
+        "php-amqplib/php-amqplib": "^2.7"
+    },
+    "authors": [
+        {
+            "name": "Omelchenko Maksym",
+            "email": "omelchenko.maksym@pdffiller.team"
+        }
+    ]
+}
